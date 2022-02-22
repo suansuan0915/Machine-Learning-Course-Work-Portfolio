@@ -1,12 +1,20 @@
 # Machine-Learning-Course-Work-Portfolio
  
-Personal work portfolio in CMPT726-Machine Learning Course.
+This repo contains personal work portfolio in CMPT726-Machine Learning Course.
 
-- Week 2: play with matrix in **numpy/pandas library**.
+- **Week 2**\
+Description: Implement polynamial regression.\
+Tools: **numpy/pandas library**.
 
-- Week 3: fine-tuning a pre-trained neural network with **PyTorch**.
+- **Week 3** \
+Description: Fine-tuning a pre-trained neural network.\
+Tools: **PyTorch**.
 
-- Week 4: implement autoencoder, DAE, VAE with **PyTorch**.
-
-
+- **Week 4** \
+Description: Implement autoencoder, DAE, VAE.\
+Tools: **PyTorch**.
+\
+\
+\
+\
 *Please do not copy codes in this repository. All rights reserved.*
