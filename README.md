@@ -1,6 +1,8 @@
 # Machine-Learning-Course-Work-Portfolio
  
-This repo contains personal work portfolio in CMPT726-Machine Learning Course.
+This repo contains personal work portfolio in Machine Learning and deep learning topic.\
+
+tools: Python (Numpy, PuTorch).
 
 - **Week 2**\
 Description: Implement polynamial regression.\
