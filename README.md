@@ -2,7 +2,7 @@
  
 This repo contains personal work portfolio in Machine Learning and deep learning topic.\
 
-tools: Python (Numpy, PuTorch).
+tools: Python (Numpy, PyTorch).
 
 - **Week 2**\
 Description: Implement polynamial regression.\
